@@ -1,0 +1,20 @@
+{
+  "name": "craft",
+  "version": "1.0.0",
+  "description": "A collaborative platform for creating markdown notes and diagrams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniruddh-482/Craft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniruddh-482/Craft/issues"
+  },
+  "homepage": "https://github.com/Aniruddh-482/Craft#readme"
+}
